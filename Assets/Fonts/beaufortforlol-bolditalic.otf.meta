@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ed6aea41f0ba28646bdc6bba165e6fae
+timeCreated: 1493135145
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beaufort for LOL
+  fontNames:
+  - Beaufort for LOL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e7d0f535235bb84cbf84abb3eabe444, type: 3}
+  - {fileID: 12800000, guid: 369f725b001f64249841fa7753ebfd4d, type: 3}
+  - {fileID: 12800000, guid: e110ed5b2d0919940840f7b58d9fba78, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
